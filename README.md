@@ -3,7 +3,7 @@
 I'm a grad student at Johns Hopkins working on machine learning, mostly on making LLM inference cheaper and getting models to say how sure they are. Before this I studied Computer Science and Engineering at HKUST.
 
 - 🔬 Right now: pruning reasoning branches early in Best-of-N decoding, see [rnla-pruning](https://github.com/nathan215/rnla-pruning)
-- 🧰 Daily tools: PyTorch, Hugging Face Transformers, NumPy / SciPy / pandas, a bit of React and Django when a project needs a UI
+- 🧰 Daily tools: PyTorch, Hugging Face Transformers, NumPy / SciPy / pandas, React and Django when a project needs a UI
 - 💼 Open to machine learning engineering and research roles
 
 ### Projects
