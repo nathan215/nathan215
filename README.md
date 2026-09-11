@@ -1,6 +1,6 @@
 ### Hi, I'm Nathan 👋
 
-I'm a grad student at Johns Hopkins working on machine learning, mostly on making LLM inference cheaper and getting models to say how sure they are. Before this I studied Computer Science and Engineering at HKUST.
+I'm an M.S. Data Science student at Johns Hopkins working on machine learning, mostly on making LLM inference cheaper and getting models to say how sure they are. Before this I did my B.S. in Data Science at HKUST.
 
 - 🔬 Right now: pruning reasoning branches early in Best-of-N decoding, see [rnla-pruning](https://github.com/nathan215/rnla-pruning)
 - 🧰 Daily tools: PyTorch, Hugging Face Transformers, NumPy / SciPy / pandas, React and Django when a project needs a UI
