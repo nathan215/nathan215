@@ -1,4 +1,4 @@
-### Hi, I'm Chen-Yi 👋
+### Hi, I'm Nathan 👋
 
 I'm a grad student at Johns Hopkins working on machine learning, mostly on making LLM inference cheaper and getting models to say how sure they are. Before this I studied Computer Science and Engineering at HKUST.
 
