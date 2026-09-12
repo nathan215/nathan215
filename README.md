@@ -3,9 +3,7 @@
 I build LLM agents and pull reasoning models apart to see what is inside. Two questions keep pulling me back: how do you get an agent to do real work inside someone else's system without breaking anything, and how much of a model's thinking can you throw away before the answer changes.
 
 - 🔬 **Right now:** [rnla-pruning](https://github.com/nathan215/rnla-pruning) — 300 tokens into a reasoning trace, can you already tell which branches are worth finishing?
-- 🤖 **Most of my building:** agents that touch real systems, which in practice means MCP tools, an approval gate in front of anything destructive, and evals for when the agent is confidently wrong
-- 😅 **Fun fact:** an agent once ran `git reset --hard` over my uncommitted work while I was asleep. That is roughly how I got interested in human-in-the-loop approval gates.
-
+- 😅 **Fun fact:** an agent once ran `git reset --hard` over my uncommitted work while I was asleep.
 ### Projects
 
 | Project | What it is | One number |
