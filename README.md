@@ -1,10 +1,10 @@
 ### Hi, I'm Nathan 👋
 
-I'm an M.S. Data Science student at Johns Hopkins working on machine learning, mostly on making LLM inference cheaper and getting models to say how sure they are. Before this I did my B.S. in Data Science at HKUST.
+I build LLM agents and pull reasoning models apart to see what is inside. Two questions keep pulling me back: how do you get an agent to do real work inside someone else's system without breaking anything, and how much of a model's thinking can you throw away before the answer changes.
 
-- 🔬 Right now: pruning reasoning branches early in Best-of-N decoding, see [rnla-pruning](https://github.com/nathan215/rnla-pruning)
-- 🧰 Daily tools: PyTorch, Hugging Face Transformers, NumPy / SciPy / pandas, React and Django when a project needs a UI
-- 💼 Open to machine learning engineering and research roles
+- 🔬 **Right now:** [rnla-pruning](https://github.com/nathan215/rnla-pruning) — 300 tokens into a reasoning trace, can you already tell which branches are worth finishing?
+- 🤖 **Most of my building:** agents that touch real systems, which in practice means MCP tools, an approval gate in front of anything destructive, and evals for when the agent is confidently wrong
+- 😅 **Fun fact:** an agent once ran `git reset --hard` over my uncommitted work while I was asleep. That is roughly how I got interested in human-in-the-loop approval gates.
 
 ### Projects
 
@@ -15,3 +15,5 @@ I'm an M.S. Data Science student at Johns Hopkins working on machine learning, m
 | [FYP](https://github.com/nathan215/FYP) | Drone plus LoRa beacon system for finding missing people, from RSSI localization to a live web map. HKUST final-year project, 2023–24 | Team of three; I built the localization algorithms and most of the backend |
 | [bayesian_final_report](https://github.com/nathan215/bayesian_final_report) | Bayesian AR(1) and GARCH(1,1) volatility models for seven tech stocks, with Gibbs samplers written from scratch and hierarchical pooling across tickers | Five years of daily returns, chronological 1,040 / 214 split |
 | [OSM-Shortest-Path-Algorithms](https://github.com/nathan215/OSM-Shortest-Path-Algorithms) | Dijkstra, bidirectional Dijkstra and A* written from scratch and raced against NetworkX on real road maps of six Taiwanese cities. HKUST UROP, 2023 | 6 cities × 3 scenarios × 100 routes each |
+
+Finishing an M.S. at Johns Hopkins and looking for agent and ML engineering work. Say hi on [LinkedIn](https://linkedin.com/in/chenyisu02).
